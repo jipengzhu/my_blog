@@ -1,4 +1,4 @@
-title: Welcome to zhujipeng's world
+title: Welcome to the zhujipeng's world
 categories:
   - 生活
 tags:
@@ -50,8 +50,8 @@ date: 2017-07-07 00:00:01
 
 
 [Github][2] 和 [个人博客][1]，请猛戳文字和图标链接（如果图片打不开链接，请用右键并选择在新标签页打开链接）
-[![Github](https://github.com/jipengzhu/jipengzhu.github.io/blob/master/images/github%E5%9B%BE%E6%A0%87.png?raw=true)][2]
-[![Blog](https://github.com/jipengzhu/jipengzhu.github.io/blob/master/images/blog%E5%9B%BE%E6%A0%87.png?raw=true)][1]
+[![Github](https://github.com/jipengzhu/jipengzhu.github.io/blob/master/images/github_icon.png?raw=true)][2]
+[![Blog](https://github.com/jipengzhu/jipengzhu.github.io/blob/master/images/blog_icon.png?raw=true)][1]
 
 
 [Gitbook Linux][4]  
