@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 朱继鹏的博客
+subtitle: 天道酬勤，全栈不停
+description: 在全栈的路上狂奔不止
 keywords:
-author: John Doe
-language: en
+author: 朱继鹏
+language: zh-CN
 timezone: ''
 
 # URL
@@ -55,7 +55,7 @@ prismjs:
   preprocess: true
   line_number: true
   tab_replace: ''
-
+  
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -64,12 +64,17 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
-
+  
 # Category & Tag
 default_category: uncategorized
 category_map:
+  编程: programming
+  生活: life
+  其他: other
 tag_map:
-
+  欢迎: welcome
+  算法: algorithm
+  思考: thought
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 meta_generator: true
@@ -102,4 +107,10 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/jipengzhu/jipengzhu.github.io.git
+
+# add by zhujipeng
+github_code:
+  cap: true
+  re: false
